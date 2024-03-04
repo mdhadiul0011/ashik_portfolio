@@ -1,0 +1,138 @@
+@media (min-width: 350px) and (max-width: 576px) { 
+    #intro{
+        padding: 40px 20px;
+    }
+    .intro-head{
+        margin-top: 20px;
+    }
+
+    .intro-head h3{
+        font-size: 28px;
+        font-weight: 400;
+    }
+
+    .intro-head p{
+        font-size: 28px;
+        font-weight: 400;
+    }
+
+    .intro-parra p{
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 24px;
+    }
+
+    #intro .rounded-text{
+        display: none;
+    }
+
+    #intro .all-count {
+        display: flex;
+        justify-content: space-between;
+        width: 60%;
+        position: absolute;
+        top: 400px;
+        left: 30px;
+    }
+
+    #intro .count-part p{
+        font-size: 14px;
+        font-weight: 400;
+    }
+    
+
+}
+
+@media (min-width: 577px) and (max-width: 768px) {
+    #intro{
+        padding: 40px 0;
+        z-index: -111;
+    }
+    .intro-head{
+        margin-top: 20px;
+    }
+
+    .intro-head h3{
+        font-size: 28px;
+        margin-bottom: 10px;
+    }
+
+    .intro-head p{
+        font-size: 28px;
+    }
+
+    .intro-parra p{
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    #intro .rounded-text{
+        display: none;
+        position: absolute;
+        top: 0;
+        right: 0;
+    }
+
+    #intro .all-count {
+        display: flex;
+        justify-content: space-between;
+        width: 60%;
+        position: absolute;
+        top: 400px;
+        left: 30px;
+    }
+
+    #intro .count-part p{
+        font-size: 14px;
+        font-weight: 400;
+        color: var(--icon-color);
+        text-align: center;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+    #intro{
+        padding: 40px 0;
+        z-index: -111;
+    }
+    .intro-head{
+        margin-top: 20px;
+    }
+
+    .intro-head h3{
+        font-size: 32px;
+        margin-bottom: 10px;
+    }
+
+    .intro-head p{
+        font-size: 32px;
+    }
+
+    .intro-parra p{
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    #intro .rounded-text{
+        display: none;
+        position: absolute;
+        top: 0;
+        right: 0;
+    }
+
+    #intro .all-count {
+        display: flex;
+        justify-content: space-between;
+        width: 60%;
+        position: absolute;
+        top: 400px;
+        left: 30px;
+    }
+
+    #intro .count-part p{
+        font-size: 14px;
+        font-weight: 400;
+        color: var(--icon-color);
+        text-align: center;
+    }
+}

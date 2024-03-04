@@ -1,0 +1,22 @@
+@media (min-width: 350px) and (max-width: 576px){ 
+    .bio-part{
+        display: none;
+    }
+}
+
+
+@media (min-width: 577px) and (max-width: 768px) {
+    .bio-part {
+        display: none;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+    .bio-part{
+        width: 320px;
+    }
+
+    .email-add p {
+        font-size: 18px;
+    }
+}

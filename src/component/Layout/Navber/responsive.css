@@ -1,0 +1,11 @@
+@media (min-width: 350px) and (max-width: 576px) { 
+    .navber-part{
+        display: none;
+    }
+}
+
+@media (min-width: 577px) and (max-width: 768px) {
+    .navber-part{
+        display: none;
+    }
+}

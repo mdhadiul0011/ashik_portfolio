@@ -1,0 +1,39 @@
+@media (min-width: 350px) and (max-width: 576px) {
+    .menubar-part{
+        margin-top: -50px;
+        z-index: 999;
+    }
+
+    .menubar-icon{
+        width: 40px !important;
+        height: 40px !important;
+    }
+
+    .menu-bar{
+        width: 20px !important;
+        height: 20px !important;
+    }
+}
+
+@media (min-width: 577px) and (max-width: 768px) {
+    .menubar-part{
+        margin-top: -50px;
+        z-index: 999;
+    }
+
+    .menubar-icon{
+        width: 40px !important;
+        height: 40px !important;
+    }
+
+    .menu-bar{
+        width: 20px !important;
+        height: 20px !important;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+    .menubar-part{
+        display: none;
+    }
+}

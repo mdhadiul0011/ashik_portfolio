@@ -1,0 +1,100 @@
+@media (min-width: 350px) and (max-width: 576px) {
+    #skill-part{
+        padding: 40px 20px;
+    }
+
+    #skill-part h3{
+        font-size: 24px;
+        font-weight: 500;
+    }
+
+    #skill-part .text{
+        font-size: 22px;
+        font-weight: 500;
+    }
+
+    .skills {
+        width: 150px;
+        height: 150px;
+        margin-bottom: 60px;
+    }
+
+    .skill-item{
+        width: 150px;
+        height: 150px;
+        padding: 30px;
+    }
+
+    .skills h4{
+        font-size: 16px;
+        font-weight: 400;
+    }
+
+}
+
+@media (min-width: 577px) and (max-width: 768px) {
+    #skill-part{
+        padding: 40px 0;
+    }
+
+    #skill-part h3{
+        font-size: 28px;
+        font-weight: 500;
+    }
+
+    #skill-part .text{
+        font-size: 28px;
+        font-weight: 500;
+    }
+
+    .skills {
+        width: 150px;
+        height: 150px;
+        margin-bottom: 60px;
+    }
+
+    .skill-item{
+        width: 150px;
+        height: 150px;
+        padding: 30px;
+    }
+
+    .skills h4{
+        font-size: 16px;
+        font-weight: 400;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1200px){
+    #skill-part{
+        padding: 40px 0;
+        width: 65%;
+    }
+
+    #skill-part h3{
+        font-size: 28px;
+        font-weight: 500;
+    }
+
+    #skill-part .text{
+        font-size: 28px;
+        font-weight: 500;
+    }
+
+    .skills {
+        width: 150px;
+        height: 150px;
+        margin-bottom: 60px;
+    }
+
+    .skill-item{
+        width: 150px;
+        height: 150px;
+        padding: 30px;
+    }
+
+    .skills h4{
+        font-size: 16px;
+        font-weight: 400;
+    }
+}

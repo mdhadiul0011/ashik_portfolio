@@ -1,0 +1,34 @@
+@import './_reset.css';
+@import './_variables.css';
+
+@import '../../component/Layout/Navber/navber.css';
+@import '../../component/Layout/menubar/menubar.css';
+@import '../../component/Bio/style.css';
+@import '../../component/intro/style.css';
+@import '../../component/button/style.css';
+@import '../../component/pageAll/style.css';
+@import '../../component/about/style.css';
+@import '../../component/resume/style.css';
+@import '../../component/services/style.css';
+@import '../../component/skills/style.css';
+@import '../../component/portfolio/style.css';
+@import '../../component/personalize/style.css';
+@import '../../component/testimonial/style.css';
+@import '../../component/Footer/style.css';
+
+
+@import '../../component/Bio/responsive.css';
+@import '../../component/intro/responsive.css';
+@import '../../component/Layout/Navber/responsive.css';
+@import '../../component/Layout/menubar/responsive.css';
+@import '../../component/pageAll/responsive.css';
+@import '../../component/about/responsive.css';
+@import '../../component/button/responsive.css';
+@import '../../component/resume/responsive.css';
+@import '../../component/services/responsive.css';
+@import '../../component/skills/responsive.css';
+@import '../../component/portfolio/responsive.css';
+@import '../../component/personalize/responsive.css';
+@import '../../component/testimonial/responsive.css';
+@import '../../component/Footer/responsive.css';
+

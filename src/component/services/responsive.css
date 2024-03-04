@@ -1,0 +1,33 @@
+@media (min-width: 350px) and (max-width: 576px) {
+    #service-part {
+        padding: 40px 20px;
+    }
+
+    .all-service {
+        margin-left: 20px;
+    }
+}
+
+@media (min-width: 577px) and (max-width: 768px){
+    #service-part {
+        padding: 40px 0;
+    }
+
+    .all-service {
+        margin-left: 20px;
+        display: flex;
+        justify-content: space-evenly;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+    #service-part {
+        padding: 40px 0;
+        width: 65%;
+    }
+
+    .all-service {
+        display: flex;
+        justify-content: space-evenly;
+    }
+}
